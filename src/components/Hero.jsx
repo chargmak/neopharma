@@ -9,7 +9,7 @@ export default function Hero() {
       </div>
       <div className="hero-container">
         <div className="hero-content">
-          <span className="hero-badge">Pioneering Healthcare Innovation</span>
+          <span className="hero-badge">Pioneering Healthcare Innovation Since 1998</span>
           <h1 className="hero-title">
             Advancing Medicine.<br />
             <span className="hero-highlight">Improving Lives.</span>
